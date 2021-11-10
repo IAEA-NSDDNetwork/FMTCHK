@@ -1,0 +1,9 @@
+Included with this release is an executable, the source code for both fmtchk and the nndclib library, 
+and a Makefile for convenience.  The executable was built and tested on Windows 7, compiling against 
+MinGW (http://www.mingw.org).
+
+To build (assuming that MinGw has been installed and the bin directory added to your path)
+, go to a command prompt and type:
+mingw32-make.exe fmtchk.exe
+
+This also compiles and runs under cygwin with appropriate changes to the Makefile.

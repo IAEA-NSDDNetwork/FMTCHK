@@ -1,0 +1,106 @@
+EVALUATED NUCLEAR STRUCTURE DATA FILE               SYNTAX CHECK          FMTCHK version 10.4d AS OF 29-Nov-2018     PAGE    1
+
+         ....:....1....:....2....:....3....:....4....:....5....:....6....:....7....:....8
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    ADOPTED LEVELS, GAMMAS                                  97NDS    199709
+    64.  228TH2 L %A=100$%{+20}O=1.13E-11 22$                                            
+                         *******                                                           <E> INVALID FIELD NAME
+   133.  228TH3 G FL=186.823$  FLAG=N                                                    
+                     *******                                                               <E> NOT CONS. WITH EL-EG=186.36  5    
+   196.  228TH3 G FL=328.003$  FLAG=N                                                    
+                     *******                                                               <W> NOT CONS. WITH EL-EG=328.29  5    
+   495.  228TH3 G FL=1122.951$  FLAG=L                                                   
+                     ********                                                              <W> NOT CONS. WITH EL-EG=1122.822 20  
+   553.  228TH3 G FL=519.192$ FLAG=LM                                                    
+                     *******                                                               <E> NOT CONS. WITH EL-EG=518.42 11    
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    228AC B- DECAY                1987DA28                  97NDS    199704
+   183.  228TH2 G FL=186.823$  FLAG=B                                                    
+                     *******                                                               <E> NOT CONS. WITH EL-EG=186.37  6    
+   248.  228TH2 G FL=328.003                                                             
+                     *******                                                               <W> NOT CONS. WITH EL-EG=328.30  6    
+   436.  228TH3 G FL=1153.467$  FLAG=N                                                   
+                     ********                                                              <E> NOT CONS. WITH EL-EG=1153.03  5   
+   458.  228TH2 G FL=328.003$  FLAG=P                                                    
+                     *******                                                               <W> NOT CONS. WITH EL-EG=328.57 10    
+   575.  228TH3 G FL=1122.951$  FLAG=B                                                   
+                     ********                                                              <W> NOT CONS. WITH EL-EG=1122.822 20  
+   665.  228TH2 G FL=519.192                                                             
+                     *******                                                               <E> NOT CONS. WITH EL-EG=518.42 11    
+   728.  228TH  G   692.5      0.0056 7 (M1+E2+E0)              0.24   3                S
+                  **********                                                               <E> NO FINAL LVL WITHIN 2.0 keV       
+                                                                                  Parent:  1892.996 17[3+]
+                                                                                  FL(cal): 1200.5  5
+                                                                                           Closest level(s):
+                                                                                           1175.39 5[2+]                     
+                                                                                           1226.565 7[(4)-:F]                
+   788.  228TH2 G FL=1091.017$  FLAG=U                                                   
+                     ********                                                              <W> NOT CONS. WITH EL-EG=1091.72 10   
+   791.  228TH  G   921.98  10 0.0147 21                                             &   
+                  **********                                                               <W> NO FINAL LVL WITHIN 0.31 keV      
+                                                                                  Parent:  1944.895 11[3+:G]
+                                                                                  FL(cal): 1022.91 10
+                                                                                           Closest level(s):
+                                                                                           1022.527 6[(3)+:E]                
+                                                                                           1059.93 3[4-]                     
+   822.  228TH  G   214.85  10 0.029  4  [D,E2]                 1.2    11                
+                  **********                                                               <W> NO FINAL LVL WITHIN 0.45 keV      
+                                                                                  Parent:  2010.11 5[2+,3,(4+)]
+                                                                                  FL(cal): 1795.26 12
+                                                                                           Closest level(s):
+                                                                                           1760.218 24[2+,3(+):G]            
+                                                                                           1795.90 10[3-,4+]                 
+
+         ....:....1....:....2....:....3....:....4....:....5....:....6....:....7....:....8
+
+EVALUATED NUCLEAR STRUCTURE DATA FILE               SYNTAX CHECK          FMTCHK version 10.4d AS OF 29-Nov-2018     PAGE    2
+
+         ....:....1....:....2....:....3....:....4....:....5....:....6....:....7....:....8
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    228PA EC DECAY                1995BA42                  97NDS    199704
+   770.  228TH  G  791.43   9   0.24  9  [M1,E2]                0.04   3             @   
+                  **********                                                               <E> AMBIGUOUS FINAL LVL. USE "FL="
+                                                                                   Parent: 1760.2 2[2+,3(+)]
+                                                                                  FL(cal): 968.77 22
+                                                                                           968.37 15[3-:F]                   
+                                                                                           968.97 15[2+:G]                   
+   838.  228TH  G  924.3    2   2.7   2  [M1,E2]                0.028  17            G   
+                  **********                                                               <E> AMBIGUOUS FINAL LVL. USE "FL="
+                                                                                   Parent: 1893.0 2[3+]
+                                                                                  FL(cal): 968.7 3
+                                                                                           968.37 15[3-:F]                   
+                                                                                           968.97 15[2+:G]                   
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    232U A DECAY                  1977KU15,1986LOZT         97NDS    199704
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    226RA(A,2NG)                  1993AC02,1986SC18         97NDS    199704
+    37.  228TH  L   920.8   3    9-                                                  E   
+                                                                                           <W> NO RI=100 FOR G's FROM LVL
+    40.  228TH  L  1189.8   4   11-                                                  E   
+                                                                                           <W> NO RI=100 FOR G's FROM LVL
+    45.  228TH  L  1497.1   5   13-                                                  E   
+                                                                                           <W> NO RI=100 FOR G's FROM LVL
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    230TH(P,T)                    1972MA15                  97NDS    199704
+
+         ---------+---------+-+-------+-+-------+-+-------+-----+------+-+---------+-++-+
+
+     1.  228TH    230TH(A,A'2NG)                1984HA21                  97NDS    199704
+
+EVALUATED NUCLEAR STRUCTURE DATA FILE               SYNTAX CHECK          FMTCHK version 10.4d AS OF 29-Nov-2018     PAGE    3
+ X RECORD TO ID RECORD COMPARISON
+
+
+ No mismatches in X Records and ID Records found

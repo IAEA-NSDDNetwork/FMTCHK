@@ -1,0 +1,54 @@
+
+ FMTCHK version 10.4d [29-Nov-2018]
+ ...Input file: fmtchk.inp
+ ...Output file: run1.rpt REPLACE
+ ...Errors/Full report flag: E
+ ...Check continuation: Y
+ ...Report only fatal errors: N
+ ...Suppress warning messages: N
+ ...Suppress XREF/DSID check: N
+
+ 228TH    ADOPTED LEVELS, GAMMAS                                  97NDS    199709
+ In chkdsid, starting r is:           22
+ dsid here is: ADOPTED LEVELS, GAMMAS                                                                                                                                                                                     
+    3 error(s) reported
+    2 warning(s) reported
+
+ 228TH    228AC B- DECAY                1987DA28                  97NDS    199704
+ In chkdsid, starting r is:           14
+ dsid here is: 228AC B- DECAY                                                                                                                                                                                             
+ energy_num is true
+    4 error(s) reported
+    6 warning(s) reported
+
+ 228TH    228PA EC DECAY                1995BA42                  97NDS    199704
+ In chkdsid, starting r is:           14
+ dsid here is: 228PA EC DECAY                                                                                                                                                                                             
+ energy_num is true
+    2 error(s) reported
+
+ 228TH    232U A DECAY                  1977KU15,1986LOZT         97NDS    199704
+ In chkdsid, starting r is:           12
+ dsid here is: 232U A DECAY                                                                                                                                                                                               
+ energy_num is true
+
+ 228TH    226RA(A,2NG)                  1993AC02,1986SC18         97NDS    199704
+ In chkdsid, starting r is:           12
+ dsid here is: 226RA(A,2NG)                                                                                                                                                                                               
+ Checking reaction now.. and r is:           12
+ Calling the nucid on: 226RA
+    3 warning(s) reported
+
+ 228TH    230TH(P,T)                    1972MA15                  97NDS    199704
+ In chkdsid, starting r is:           10
+ dsid here is: 230TH(P,T)                                                                                                                                                                                                 
+ Checking reaction now.. and r is:           10
+ Calling the nucid on: 230TH
+
+ 228TH    230TH(A,A'2NG)                1984HA21                  97NDS    199704
+ In chkdsid, starting r is:           14
+ dsid here is: 230TH(A,A'2NG)                                                                                                                                                                                             
+ Checking reaction now.. and r is:           14
+ Calling the nucid on: 230TH
+
+ Program completed successfully

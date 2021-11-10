@@ -1,0 +1,33 @@
+               FMTCHK checking format of ENSDF file.
+                    "How-to" instructions.
+
+
+1. BUILD EXECUTABLE
+
+   1) Using Makefile:
+      $ make
+   2) Using your Fortran compiler, e.g.:
+      $ lf95 -m32 -static fmtchk.f nndclib.f -o fmtchk
+      $ ifort fmtchk.f nndclib.f -o fmtchk
+      $ gfortran fmtchk.f nndclib.f -o fmtchk
+
+
+2. TEST PROGRAM
+
+   1) Run program without dialog:
+      ---------------------------
+      $ ./fmtchk EYNNN fmtchk.inp run1.rpt run1.tto
+      $   fmtchk EYNNN fmtchk.inp run1.rpt run1.tto
+   2) Compare report and output files with original, e.g.:
+      $ FC run1.rpt run1.rpt-0
+      $ FC run1.tto run1.tto-0
+      $ diff run1.rpt run1.rpt-0
+      $ diff run1.tto run1.tto-0
+
+
+2. RUN PROGRAM
+
+      $ fmtchk
+      ......answer questions: input, output, parameters, etc......
+
+---End---
