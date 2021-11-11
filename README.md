@@ -1,5 +1,9 @@
 # FMTCHECK
-ENSDF format and syntax checking. FMTCHECK is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+ENSDF format and syntax checking. 
+
+FMTCHECK is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+
+Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GOV
 
 ## Change history
 
