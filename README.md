@@ -7,8 +7,10 @@ Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GO
 
 ## Change history
 
-#### 2018-12
-Bug fixes
+#### 2018-11
+Version 10.5d
+
+Added lower case check to dsid            
 
 #### 2016-01
 Removed check for NP to be equal to BR on N card.
