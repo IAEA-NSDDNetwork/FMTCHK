@@ -7,6 +7,9 @@ Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GO
 
 ## Change history
 
+#### 2022-09
+Removed inconsistent warning message, E > Q + Parent decay level
+
 #### 2018-11
 Version 10.5d
 
