@@ -3958,11 +3958,11 @@ C         CALL CKS(Card(65:74),65,74,'<W>')
       END IF
       IF(typlev.EQ.1.OR.typlev.EQ.-2) THEN
          curlev = VALSTR(levene)
-         if (isenernum) then
-            If ( (dstype.eq.2) .and. (curlev.gt.avail_energy) ) Then
-               CALL WRTMSG('<E> E > Q + Parent decay level',10,19)
-            End if
-         end if
+!        if (isenernum) then
+!           If ( (dstype.eq.2) .and. (curlev.gt.avail_energy) ) Then
+!              CALL WRTMSG('<E> E > Q + Parent decay level',10,19)
+!           End if
+!        end if
          curjpi = Card(22:39)
          CALL LBSUP(curjpi)
          curt12 = Card(40:49)
