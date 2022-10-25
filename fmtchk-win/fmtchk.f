@@ -781,7 +781,7 @@
 !      COMMON /VERSION/ PAGE, VERSION, VERDATE
 !
       INTEGER(KIND=4) page
-      CHARACTER(LEN=*), PARAMETER :: version = 'FMTCHK version 10.4d'
+      CHARACTER(LEN=*), PARAMETER :: version = 'FMTCHK version 10.5d'
       CHARACTER(LEN=*), PARAMETER :: verdate = '29-Nov-2018'
 !
 !     FORTRAN UNIT NUMBERS FOR FILES.
