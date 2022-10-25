@@ -7,6 +7,10 @@ Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GO
 
 ## Change history
 
+#### 2022-10
+The version is now changed to the latest, 10.5d. The source code was tested on Windows, Linux, and Mac OS with gfortran. 
+The Makefile will build an executable for the appropriate operating system with the "make" command.
+
 #### 2022-09
 Removed inconsistent warning message, E > Q + Parent decay level
 
