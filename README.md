@@ -1,5 +1,5 @@
 # FMTCHK
-ENSDF format and syntax checking. 
+LEGACY CODE. ENSDF format and syntax checking. 
 
 FMTCHK is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
